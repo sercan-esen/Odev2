@@ -1,2 +1,2 @@
 # Odev2
-Odev2 soru ve cevapları
+Tubisad Android Developer Bootcamp Odev1
